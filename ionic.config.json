@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "movieApp2",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
